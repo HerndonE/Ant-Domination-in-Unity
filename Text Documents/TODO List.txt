@@ -1,0 +1,22 @@
+StarCraft Ant Version
+
+Repo
+Unity version 2019.3.7f1
+Setup unity collaborator
+
+file system
+basic map layout
+
+Ant
+  to go A to B
+  random walk
+  pathfinding
+  take and deliver resources to queen aunt
+
+Path Node Manipulation
+Have a starter force
+  Ex: after 5 minutes player can expand
+
+Resources
+  ants take resources to build queen ant
+ queen ant is a defensive unit yet allows for more ants to be made
