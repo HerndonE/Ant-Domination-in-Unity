@@ -57,7 +57,10 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-buil
-Ant Domination/Library/*
-Ant Domination/Temp/
+Ant\ Domination/Library/*
+Ant\ Domination/Temp/
+Ant\ Domination/Library/Artifacts
+Ant\ Domination/Library/ArtifactDB
 # Ant Domination/Temp/
 # Library/artifact
+Ant Domination/Library/shadercompiler-UnityShaderCompiler.exe0.log
