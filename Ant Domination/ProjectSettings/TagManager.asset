@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
+  - Ant
+=======
   - path
+>>>>>>> e2fa48f7b42e7126902f210d145189ee0b4f588d
   layers:
   - Default
   - TransparentFX
