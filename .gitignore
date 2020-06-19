@@ -57,5 +57,7 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-buil
-Library/
+Ant Domination/Library/*
+Ant Domination/Temp/
+# Ant Domination/Temp/
 # Library/artifact
