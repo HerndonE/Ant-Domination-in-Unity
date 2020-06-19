@@ -56,5 +56,8 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
-crashlytics-build.properties
-
+crashlytics-buil
+Ant Domination/Library/*
+Ant Domination/Temp/
+# Ant Domination/Temp/
+# Library/artifact
