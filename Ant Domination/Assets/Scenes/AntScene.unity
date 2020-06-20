@@ -165,7 +165,6 @@ GameObject:
   - component: {fileID: 365444009}
   - component: {fileID: 365444008}
   - component: {fileID: 365444007}
-  - component: {fileID: 365444011}
   m_Layer: 0
   m_Name: Ant AI
   m_TagString: Untagged
@@ -266,18 +265,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &365444011
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 365444006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e881f9126f6bfae499a040c78f5e1751, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &412796335 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6754312982421573202, guid: 2a56ee76bfe8fad449498480766bd3ee,
